@@ -12,7 +12,7 @@ body{
   }
   #particles-js{
     width: 100%;
-    height: 100vh/*molecul animation*/
+    height: 100vh;
   }
   main{
     background: #ffffffdb;
@@ -91,7 +91,7 @@ body{
   }
 
   .root{
-    
+
   }
   #registration {
     text-align: center;
@@ -146,11 +146,9 @@ body{
     width:6px;
   }
   .test::-webkit-scrollbar-track {
-      /* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); */
       border-radius: 14px;
   }
   .test::-webkit-scrollbar-thumb {
     background-color: #F5AB47;
-    /* outline: 1px solid slategrey; */
     border-radius: 14px;
   }
